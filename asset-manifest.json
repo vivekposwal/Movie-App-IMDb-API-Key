@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movie-App-IMDb-API-Key/static/css/main.526fdcfb.css",
+    "main.js": "/Movie-App-IMDb-API-Key/static/js/main.41f3f997.js",
+    "static/js/787.858bfe91.chunk.js": "/Movie-App-IMDb-API-Key/static/js/787.858bfe91.chunk.js",
+    "index.html": "/Movie-App-IMDb-API-Key/index.html",
+    "main.526fdcfb.css.map": "/Movie-App-IMDb-API-Key/static/css/main.526fdcfb.css.map",
+    "main.41f3f997.js.map": "/Movie-App-IMDb-API-Key/static/js/main.41f3f997.js.map",
+    "787.858bfe91.chunk.js.map": "/Movie-App-IMDb-API-Key/static/js/787.858bfe91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.526fdcfb.css",
+    "static/js/main.41f3f997.js"
+  ]
+}
